@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-security-hello" />
+        <module name="SpringBoot-multi-source" />
+        <module name="Springboot2-api-encrypt" />
+        <module name="springboot-shiro-mybaits-plus" />
+        <module name="springboot-mybatisplus" />
+        <module name="jwt" />
+        <module name="SpringBoot-i18n" />
+        <module name="redisson" />
+        <module name="blog" />
+        <module name="springboot-redis-standalone" />
+        <module name="demo" />
+        <module name="editormd" />
+        <module name="springboot-sqlite" />
+        <module name="springboot-web" />
+        <module name="limit" />
+        <module name="springboot-mqtt" />
+        <module name="shiro-quickstart" />
+        <module name="springboot-shiro-token" />
+        <module name="amqp-generator" />
+        <module name="amqp-commons" />
+        <module name="springboot-kafka" />
+        <module name="springboot-redis-sentinel" />
+        <module name="springboot-mail" />
+        <module name="cache" />
+        <module name="fli" />
+        <module name="springboot-log" />
+        <module name="amqp-timer" />
+        <module name="helloword (1)" />
+        <module name="google-check" />
+        <module name="springboot-security-jwt" />
+        <module name="springboot-validator" />
+        <module name="springboot-shiro-thymeleaf" />
+        <module name="amqp-consumer" />
+        <module name="springboot-elasticsearch" />
+        <module name="helloword" />
+        <module name="springboot-neo4j-multiple-sdn" />
+        <module name="amqp-provider" />
+        <module name="springboot-redis-cluster" />
+        <module name="springboot-mybatis-config" />
+        <module name="springboot-quartz" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Springboot2-api-encrypt" options="-parameters" />
+      <module name="amqp-commons" options="-parameters" />
+      <module name="amqp-consumer" options="-parameters" />
+      <module name="amqp-generator" options="-parameters" />
+      <module name="amqp-provider" options="-parameters" />
+      <module name="amqp-timer" options="-parameters" />
+      <module name="cache" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="google-check" options="-parameters" />
+      <module name="jwt" options="-parameters" />
+      <module name="limit" options="-parameters" />
+      <module name="redisson" options="-parameters" />
+      <module name="springboot-kafka" options="-parameters" />
+      <module name="springboot-mqtt" options="-parameters" />
+      <module name="springboot-mybatisplus" options="-parameters" />
+      <module name="springboot-neo4j-multiple-sdn" options="-parameters" />
+      <module name="springboot-quartz" options="-parameters" />
+      <module name="springboot-redis-cluster" options="-parameters" />
+      <module name="springboot-redis-sentinel" options="-parameters" />
+      <module name="springboot-security" options="-parameters" />
+      <module name="springboot-security-hello" options="-parameters" />
+      <module name="springboot-security-jwt" options="-parameters" />
+      <module name="springboot-shiro-mybaits-plus" options="-parameters" />
+      <module name="springboot-shiro-thymeleaf" options="-parameters" />
+      <module name="springboot-shiro-token" options="-parameters" />
+      <module name="springboot-sqlite" options="-parameters" />
+      <module name="springboot-validator" options="-parameters" />
+    </option>
+  </component>
+</project>

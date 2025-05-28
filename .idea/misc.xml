@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-es/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-doc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-elk/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-JWT/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-log/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-i18n/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mqtt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-limit/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-sqlite/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2-neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-editor.md/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-validator/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot2-Redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Google-Check/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-multi-source/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot2-api-encrypt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-config/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-RedisCacheManager/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-neo4j-multiple-sdn/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-filter-listener-interceptor/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="ms-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
