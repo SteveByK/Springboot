@@ -30,7 +30,7 @@ public class JwtApplicationTests {
         String token = JWT.create()
                 .withIssuer("rstyro")
                 .sign(algorithm);
-        System.out.println("token="+token);
+        System.out.println("token！！！！！！！！！！！！！！！！！="+token);
     }
 
     @Test
